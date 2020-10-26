@@ -1,2 +1,2 @@
-# week-range.py
-Python script to display this or next week as a range.
+# Date ranges.py
+Python scripts to display different dates and ranges. For use with Espanso keyboard shortcuts.
